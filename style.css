@@ -1,0 +1,52 @@
+.breakline{
+    color: black;
+}
+.header-border {
+    width: 50px;
+    border: 2px solid rgb(255, 0, 0);
+}
+.horizontalruler{
+    border: 1px solid rgb(105, 100, 100);
+}
+.aboutusbackground {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 0, 0));
+}
+.wordcolor1{
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+    color:white;
+}
+.fontcontrol1{
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+    color:white;
+}
+.fontcontrol2{
+    font-size: 20px;
+    text-align: center;
+    padding: 70px;
+    color:white;
+}
+.fontcontrol3{
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+    color:white;
+}
+.imagecontrol{
+       text-align: center;
+    border-radius: 10px
+}
+.backgroundcontrol{
+    background-image: url("https://media.giphy.com/media/l1J3ThqHNWUVtZV1m/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+.carousel-caption{
+ text-align: center;
+}
+.navbar-right{
+    padding-right: 2cm;   
+}
